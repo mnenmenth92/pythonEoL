@@ -20,4 +20,4 @@ Framework for end of line serial production testers.
   - hardware connection:
     - ni daqmx - for measurement
     - ni xnet/ BabyLIN for automotive communication standards
-  - safety PLC connection 
+    - safety PLC connection 
